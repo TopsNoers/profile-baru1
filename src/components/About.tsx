@@ -60,7 +60,7 @@ export default function About() {
             About Me
           </h2>
           <p className="mt-3 sm:mt-4 text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto">
-            I work as a full-time and freelance web developer. I have been working as a full stack developer for 2 year.
+            I work as a full-time and freelance web developer. I have been working as a full stack developer for 3 year.
           </p>
         </div>
 
